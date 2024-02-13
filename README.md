@@ -7,3 +7,5 @@ AMAÇ:
 4 - Her çalışan bir ofiste çalışır.
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+
+
