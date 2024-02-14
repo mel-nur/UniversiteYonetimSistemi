@@ -1,3 +1,5 @@
+# Universite_Yonetim_Sistemi_UML
+
 Bu proje PatikaAcademy.dev in Object Oriented Programming kursunun ödev-Üniversite Yönetim Sistemnin sınıf(class) diyagramıdır.
 
 AMAÇ:
